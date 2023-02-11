@@ -5,3 +5,9 @@ This summary is designed to provide a practical introduction to deep learning us
 
 
 <img width="178" alt="Screen Shot 2023-01-15 at 8 08 55 PM" src="https://user-images.githubusercontent.com/10836776/212596858-423b0794-3442-45da-8634-9e07fb83dd2a.png">
+
+
+
+
+## About the contributors
+Ayda Farhadi is a highly accomplished individual with a background in computer science. She holds a PhD in the field and has extensive experience as a senior data scientist. Prior to her current role, Ayda completed internships at esteemed organizations such as Mayo Clinic and Children's Healthcare of Atlanta, further demonstrating her expertise and commitment to her work. Furthermore, it is reported that she is the founder of a company called GitMop.
